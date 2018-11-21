@@ -1,2 +1,2 @@
 # LomiRicoApp
-Es una aplicación destinada a una pizzería
+Es una aplicación destinada a una pizzería y bebidas.
